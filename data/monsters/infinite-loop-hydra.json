@@ -1,0 +1,10 @@
+{
+  "name": "Infinite Loop Hydra",
+  "description": "Cut off one head and two more take its place: fix the loop condition and the retry handler spawns another. It never exits, and neither does the fight.",
+  "difficulty": "boss",
+  "hp": 350,
+  "attack": 28,
+  "xp_reward": 250,
+  "drop": "Debugger's Lens",
+  "drop_chance": 0.3
+}

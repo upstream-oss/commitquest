@@ -1,0 +1,13 @@
+{
+  "name": "Frontend Knight",
+  "description": "Knights of the UI realm. They wield HTML, CSS and JavaScript to build interfaces that shine, hold the layout line against any viewport, and never let a button go unstyled.",
+  "primary_stat": "str",
+  "stat_bonus": {
+    "str": 5,
+    "int": 2,
+    "dex": 4,
+    "con": 2
+  },
+  "file_patterns": [".html", ".css", ".scss", ".jsx", ".tsx", ".vue", ".svelte"],
+  "passive": "Pixel Perfect — earns bonus XP from commits that touch style files"
+}
