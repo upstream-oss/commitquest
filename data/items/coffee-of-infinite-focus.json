@@ -1,0 +1,10 @@
+{
+  "name": "Coffee of Infinite Focus",
+  "description": "A cup that never goes cold and never empties. While it steams, the stack trace makes sense and the night is long but the TODO list is shorter.",
+  "rarity": "epic",
+  "stat_bonus": {
+    "int": 8,
+    "wis": 3
+  },
+  "effect": "Keeps the pair focused through the night: no extra rounds lost to distraction"
+}

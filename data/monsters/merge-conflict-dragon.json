@@ -1,0 +1,10 @@
+{
+  "name": "Merge Conflict Dragon",
+  "description": "An ancient wyrm that coils around long-lived branches and breathes <<<<<<< HEAD fire. It grows a new head for every divergent commit nobody rebased.",
+  "difficulty": "boss",
+  "hp": 500,
+  "attack": 40,
+  "xp_reward": 300,
+  "drop": "Rebase Amulet",
+  "drop_chance": 0.25
+}

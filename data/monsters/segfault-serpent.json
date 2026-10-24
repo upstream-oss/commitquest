@@ -1,0 +1,10 @@
+{
+  "name": "Segfault Serpent",
+  "description": "A slithering coil of dangling pointers that strikes the moment you dereference it. Leaves a core dump behind wherever it turns.",
+  "difficulty": "medium",
+  "hp": 80,
+  "attack": 18,
+  "xp_reward": 90,
+  "drop": "Debugger's Lens",
+  "drop_chance": 0.2
+}
