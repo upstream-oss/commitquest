@@ -1,0 +1,13 @@
+{
+  "name": "DevOps Paladin",
+  "description": "Guardians of the pipeline. Their oaths are written in YAML, their shields are Terraform plans, and no prod incident survives their righteous rollbacks.",
+  "primary_stat": "con",
+  "stat_bonus": {
+    "str": 3,
+    "int": 3,
+    "dex": 1,
+    "con": 5
+  },
+  "file_patterns": [".yml", ".yaml", ".tf", "Dockerfile", ".toml"],
+  "passive": "Oath of Uptime — earns bonus XP from commits that touch CI and deploy files"
+}
