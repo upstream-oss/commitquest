@@ -1,0 +1,10 @@
+{
+  "name": "Streak Master",
+  "description": "Thirty days of commits without missing one. Rain, weekends, holidays - the graph never dips. Only the most dedicated adventurers earn this.",
+  "trigger": {
+    "event": "streak_days",
+    "count": 30
+  },
+  "xp_reward": 500,
+  "item_reward": "Coffee of Infinite Focus"
+}
