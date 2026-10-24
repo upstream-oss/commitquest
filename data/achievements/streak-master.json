@@ -1,0 +1,9 @@
+{
+  "name": "Streak Master",
+  "description": "Maintained a 30-day commit streak. Your dedication is legendary.",
+  "trigger": {
+    "event": "streak_days",
+    "count": 30
+  },
+  "xp_reward": 500
+}
