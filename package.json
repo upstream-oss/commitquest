@@ -9,7 +9,7 @@
   },
   "scripts": {
     "start": "node src/index.js",
-    "test": "node scripts/validate.js"
+    "test": "node scripts/validate.js && node --test \"tests/*.test.js\""
   },
   "keywords": ["github", "rpg", "gamification", "cli"],
   "license": "MIT",
