@@ -1,0 +1,8 @@
+{
+  "name": "Merge Conflict Dragon",
+  "description": "An ancient beast born where two branches touched the same line. It breathes <<<<<<< HEAD from one mouth and >>>>>>> main from the other, and only a developer who reads both sides can tame it.",
+  "difficulty": "hard",
+  "hp": 150,
+  "attack": 20,
+  "xp_reward": 100
+}
